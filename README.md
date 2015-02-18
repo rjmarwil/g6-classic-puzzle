@@ -1,5 +1,5 @@
 You should define a method that takes an input and produces the output.
-
+```
 [
   { input: "8809", output: 6 },
   { input: "7111", output: 0 },
@@ -22,3 +22,4 @@ You should define a method that takes an input and produces the output.
   { input: "9881", output: 5 },
   { input: "5531", output: 0 }
 ]
+```
